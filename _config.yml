@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 title: Wesley's DevOps Blog
 description: All things DevOps and Cloud Infrastructure
-permalink: /:title
+permalink: /:title/
