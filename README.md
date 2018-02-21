@@ -1,1 +1,0 @@
-# wesleycharlesblake.github.io
