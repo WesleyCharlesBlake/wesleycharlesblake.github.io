@@ -3,11 +3,11 @@ First, let’s just say there is no definitive answer. Yet. There are lots of op
 
 Born of the need to improve IT service delivery agility, the DevOps movement emphasizes communication, collaboration and integration between software developers and IT operations. Rather than seeing these two groups as silos who pass things along but don’t really work together, DevOps recognizes the interdependence of software development and IT operations and helps an organization produce software and IT services more rapidly, with frequent iterations.
 
-###The Perfect Storm of 2009
+### The Perfect Storm of 2009
 
 A perfect storm of converging adjacent methodology including Agile, Operations Management (Systems Thinking & Dynamics), Theory of Constraints, LEAN and IT Service management came together in 2009 through a smattering of conferences, talks and Twitter (#devops) debates worldwide that eventually became the philosophy behind DevOps.
 
-###The Perfect Storm
+### The Perfect Storm
 
 Agile software development paved the way, steering away from the waterfall method of software development toward a continuous development cycle. But it didn’t include the operations side so while development could be continuous, deployment was still waterfall-oriented.
 
@@ -34,4 +34,4 @@ The benefits of a DevOps approach are many, including:
 
 DevOps is not a set of rules, or templated workflow that everyone can adopt to achieve "DevOps". DevOps is an ethos, that bridges Dev and Ops. This grey area varies between organisations, and the products/services being worked on.
 
-The biggest part of DevOps, is discovering what each organisations DevOps requirements are, and then implementing a strategy that will set out to achieve the objectives set out. 
+The biggest part of DevOps, is discovering what each organisations DevOps requirements are, and then implementing a strategy that will set out to achieve the objectives set out.
