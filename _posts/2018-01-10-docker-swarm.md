@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Docker Swarm"
+---
+
 Docker 1.12 is in general availability and ready for production. Swarm has been around in previous versions of docker, however its implementation was slightly more complicated, requiring you to run swarm as container.
 
 So why all the rage about Docker 1.12 and Swarm? Lets look at some of the feature highlights:

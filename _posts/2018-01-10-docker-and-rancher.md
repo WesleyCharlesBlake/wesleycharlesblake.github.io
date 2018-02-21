@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: "Docker and Rancher"
+---
 
 ### Rancher — A software platform for deploying a private container service.
 

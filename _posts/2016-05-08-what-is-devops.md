@@ -1,3 +1,8 @@
+---
+layout: default
+title: "What Is DevOps"
+---
+
 ### What is DevOps?
 First, let’s just say there is no definitive answer. Yet. There are lots of opinions about what is covered under DevOps and what’s not. Is it a culture? Is it a job title? Is it a way of organizing? Or just a way of thinking? We think it’s a still-evolving movement so let’s not get stuck on limiting it too much right now. Instead, we can talk about some of the common themes, tools and ideas.
 

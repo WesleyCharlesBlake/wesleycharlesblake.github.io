@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Automating with Packer and TerraForm"
+---
+
 ### Automating with Packer and TerraForm
 
 [Hashicorp](https://www.hashicorp.com/) have created some amazing tools to help engineers in orchestrating cloud architecture. Two tools I want to go through are [Packer](https://www.packer.io/) and [TerraForm](https://www.terraform.io)
