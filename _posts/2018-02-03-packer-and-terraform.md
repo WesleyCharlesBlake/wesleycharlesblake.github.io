@@ -3,6 +3,8 @@ layout: default
 title: "Automating with Packer and TerraForm"
 ---
 
+![Po.et stamp](https://img.shields.io/badge/Po.et-Verified%20on%20Po.et-green.svg?link=https://explorer-mainnet.poetnetwork.net/works/64c8a3722898343c19e58004929114983aa1c5fef4fd655eff9c21028d3f9e9d)
+
 ### Automating with Packer and TerraForm
 
 [Hashicorp](https://www.hashicorp.com/) have created some amazing tools to help engineers in orchestrating cloud architecture. Two tools I want to go through are [Packer](https://www.packer.io/) and [TerraForm](https://www.terraform.io)
