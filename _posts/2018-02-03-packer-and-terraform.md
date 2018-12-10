@@ -3,7 +3,7 @@ layout: default
 title: "Automating with Packer and TerraForm"
 ---
 
-[![Po.et verification](https://img.shields.io/badge/Po.et-Verified%20on%20Po.et-green.svg)](link=https://explorer-mainnet.poetnetwork.net/works/64c8a3722898343c19e58004929114983aa1c5fef4fd655eff9c21028d3f9e9d)
+[![Po.et verification](https://img.shields.io/badge/Po.et-Verified%20on%20Po.et-green.svg)](https://explorer-mainnet.poetnetwork.net/works/64c8a3722898343c19e58004929114983aa1c5fef4fd655eff9c21028d3f9e9d)
 
 ### Automating with Packer and TerraForm
 
